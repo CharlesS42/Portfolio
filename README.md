@@ -1,4 +1,3 @@
-```markdown
 # 📁 My Digital Portfolio
 
 This is a full-stack digital portfolio project that showcases my skills, experience, and projects. The backend is built using **Java (Spring Boot)**, the frontend is built with **TypeScript (React.js)**, and the database is **MongoDB**.
@@ -14,7 +13,6 @@ This is a full-stack digital portfolio project that showcases my skills, experie
 - [Usage](#-usage)
 - [API Endpoints](#-api-endpoints)
 - [Screenshots](#-screenshots)
-- [License](#-license)
 - [Contact](#-contact)
 
 ---
@@ -51,37 +49,6 @@ This is a full-stack digital portfolio project that showcases my skills, experie
 - Docker (Containerization)
 - GitHub Actions (CI/CD)
 - Postman (API Testing)
-
----
-
-## 🏗 Project Structure
-
-```
-my-digital-portfolio/
-│-- backend/                   # Spring Boot backend
-│   ├── src/main/java/com/portfolio
-│   │   ├── controller/         # REST Controllers
-│   │   ├── service/            # Business Logic
-│   │   ├── repository/         # MongoDB Repositories
-│   │   ├── model/              # Data Models
-│   │   └── config/             # Configurations
-│   ├── pom.xml                 # Maven Dependencies
-│   └── application.yml         # Backend Configuration
-│
-│-- frontend/                   # React Frontend
-│   ├── src/
-│   │   ├── components/          # Reusable Components
-│   │   ├── pages/               # Page Components
-│   │   ├── services/            # API Calls
-│   │   ├── styles/              # Styling Files
-│   │   └── App.tsx              # Main Component
-│   ├── package.json             # Frontend Dependencies
-│   ├── .env                      # Environment Variables
-│
-│-- docker-compose.yml           # Docker Setup
-│-- README.md                     # Project Documentation
-│-- .gitignore                     # Ignore Files
-```
 
 ---
 
@@ -152,11 +119,11 @@ my-digital-portfolio/
 
 ## 🖼 Screenshots
 
-![Portfolio Screenshot](https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot)
+🛠️ In development...
 
 ---
 
-## 🐳 Docker Setup (Optional)
+## 🐳 Docker Setup
 
 1. Build and run using Docker Compose:  
    ```bash
@@ -166,31 +133,12 @@ my-digital-portfolio/
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📬 Contact
 
-- **Name:** Your Name  
-- **Email:** your.email@example.com  
-- **GitHub:** [yourusername](https://github.com/yourusername)  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Name:** Charles Séguin  
+- **Email:** charles.seg42@gmail.com 
+- **GitHub:** [CharlesS42](https://github.com/CharlesS42)  
 
 ---
 
-_Developed with ❤️ by [Your Name]._  
-```
-
----
-
-### **How to Use This README**
-
-1. Update placeholders like `yourusername`, `your.email@example.com`, and LinkedIn links.
-2. Add real screenshots to replace the placeholder screenshot.
-3. Customize API endpoints according to your implementation.
-4. Keep it updated as your project evolves.
-
----
+_Developed with ❤️ by Charles Séguin._  
