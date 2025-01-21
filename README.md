@@ -1,5 +1,3 @@
-Here's an example `README.md` file for your portfolio project using Java, TypeScript, and MongoDB. You can customize it based on your specific requirements and preferences.  
-
 ---
 
 ```markdown
