@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 📁 My Digital Portfolio
 
